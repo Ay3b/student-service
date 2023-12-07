@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS item (
+CREATE TABLE IF NOT EXISTS student (
     id INT PRIMARY KEY,
     name VARCHAR(100),
     age INT
